@@ -12,7 +12,8 @@
   "dependencies": {
     "browserify-middleware": "^5.0.2",
     "express": "^4.12.4",
-    "mithril": "^0.2.0"
+    "mithril": "^0.2.0",
+    "mongodb": "^2.0.45"
   },
   "devDependencies": {
     "nodemon": "^1.3.7"
